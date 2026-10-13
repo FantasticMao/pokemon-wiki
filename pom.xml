@@ -56,7 +56,7 @@
 
         <mapstruct.version>1.6.3</mapstruct.version>
         <mundo.version>1.0.12</mundo.version>
-        <jsoup.version>1.23.1</jsoup.version>
+        <jsoup.version>1.23.2</jsoup.version>
         <jsqlparser.version>5.4</jsqlparser.version>
         <spring-ai.version>2.0.1</spring-ai.version>
     </properties>
